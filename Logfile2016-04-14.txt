@@ -1,0 +1,7 @@
+14/04/2016 14:45:34: Reading timestamp of latest tracking
+14/04/2016 14:45:34: Timestamp of latest tracking: 2016-4-13 16:58:20.537 
+14/04/2016 14:45:34: Connecting to database Server=10.5.3.202,1433\SQLEXPRESS;uid=sa; pwd=atatat;Database=ATPDB;Integrated Security=False;
+14/04/2016 14:45:34: SELECT * FROM [ATPDB].[dbo].[Fnc_View_Tracking_Access_HertogJan] () where Reader = 'DCO_AP329_Room_2' and TimeInserted > '2016-4-13 16:58:20.537 ' order by TimeInserted desc
+14/04/2016 14:45:34: Putting result into data table
+14/04/2016 14:45:34: Start writing export file
+14/04/2016 14:45:34: Timestamp of Latest tracking is: 2016-4-13 16:58:20.537 
